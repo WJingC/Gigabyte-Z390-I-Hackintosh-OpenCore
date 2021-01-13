@@ -18,15 +18,15 @@
 
 - #### 	Case:	In Win A1 BLACK Mini-ITX Tower with 600W Power Supply
 
-![Hackintosh-list](/Users/icode/Pictures/Screen Shots/Hackintosh-list.jpg)
 
 
+![Hackintoshlist](https://raw.githubusercontent.com/WJingC/upichome/master/uPic/Hackintoshlist.jpg)
 
 ## Supported  Hackinsh
 
 ![iShot2021-01-13 13.09.59](https://raw.githubusercontent.com/WJingC/upichome/master/uPic/iShot2021-01-13%2013.09.59.jpg)
 
-![9600KF-Z390I](/Users/icode/Pictures/Screen Shots/9600KF-Z390I.png)
+![9600KF-Z390I-hack](https://raw.githubusercontent.com/WJingC/upichome/master/uPic/9600KF-Z390I-hack.png)
 
 ![2021-01-13 13.29.58](https://raw.githubusercontent.com/WJingC/upichome/master/uPic/2021-01-13%2013.29.58.png)
 
